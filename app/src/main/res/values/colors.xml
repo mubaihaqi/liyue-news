@@ -20,4 +20,5 @@
     <color name="darkontertiary">#c8a84a</color>
     <color name="darkonerror">#93000a</color>
 
+    <color name="bg_gradient_bottom">#FFFFFF</color>
 </resources>

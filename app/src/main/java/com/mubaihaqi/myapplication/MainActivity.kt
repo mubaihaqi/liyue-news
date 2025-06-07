@@ -1,6 +1,7 @@
 package com.mubaihaqi.myapplication
 
 import ListArticleAdapter
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
@@ -58,8 +59,9 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
-            R.id.action_profile -> {
-                Toast.makeText(this, "Profil diklik", Toast.LENGTH_SHORT).show()
+            R.id.about_page-> {
+                val intent = Intent(this, AboutActivity::class.java)
+                startActivity(intent)
                 true
             }
             else -> super.onOptionsItemSelected(item)

@@ -2,6 +2,8 @@
     <string name="app_name">Liyue</string>
     <string name="title">Judul Artikel</string>
     <string name="isi">Isi Artikel</string>
+    <string name="email">bloombananas@gmail.com</string>
+    <string name="nama">Muhammad Umar Baihaqi</string>
     <string-array name="liyue_titles">
         <item>Pelabuhan Liyue: Jantung Perdagangan Teyvat</item>
         <item>Jueyun Karst: Kediaman Para Adeptus</item>
