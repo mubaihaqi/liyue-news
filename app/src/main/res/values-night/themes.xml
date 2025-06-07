@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LiyueStarted" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/darkprimary</item>
+        <item name="colorOnPrimary">@color/darkonprimary</item>
+
+        <item name="colorSecondary">@color/darksecondary</item>
+        <item name="colorOnSecondary">@color/darkonsecondary</item>
+
+        <item name="colorTertiary">@color/darktertiary</item>
+        <item name="colorOnTertiary">@color/darkontertiary</item>
+
+        <item name="colorError">@color/darkerror</item>
+        <item name="colorOnError">@color/darkonerror</item>
+    </style>
+</resources>

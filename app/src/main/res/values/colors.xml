@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightprimary">#902500</color>
+    <color name="lightsecondary">#8e4c39</color>
+    <color name="lighttertiary">#745b00</color>
+    <color name="lighterror">#ba1a1a</color>
+    <color name="lightonprimary">#b33b15</color>
+    <color name="lightonsecondary">#fea991</color>
+    <color name="lightontertiary">#c8a84a</color>
+    <color name="lightonerror">#ffdad6</color>
+
+    <color name="darkprimary">#ffb5a0</color>
+    <color name="darksecondary">#ffb5a0</color>
+    <color name="darktertiary">#e5c362</color>
+    <color name="darkerror">#ffb4ab</color>
+    <color name="darkonprimary">#b33b15</color>
+    <color name="darkonsecondary">#713524</color>
+    <color name="darkontertiary">#c8a84a</color>
+    <color name="darkonerror">#93000a</color>
+
+</resources>

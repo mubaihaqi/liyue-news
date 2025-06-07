@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Liyue</string>
+    <string name="title">Judul Artikel</string>
+    <string name="isi">Isi Artikel</string>
+    <string-array name="liyue_titles">
+        <item>Pelabuhan Liyue: Jantung Perdagangan Teyvat</item>
+        <item>Jueyun Karst: Kediaman Para Adeptus</item>
+        <item>Wangshu Inn: Persinggahan di Atas Rawa</item>
+        <item>Desa Qingce: Kedamaian di Kaki Gunung</item>
+        <item>Hutan Batu Guyun: Medan Perang Para Dewa</item>
+        <item>The Chasm: Misteri di Bawah Permukaan</item>
+        <item>Liyue Qixing: Kekuatan Manusia di Era Baru</item>
+        <item>Para Adeptus: Penjaga Abadi Liyue</item>
+        <item>Rex Lapis: Sang Dewa Kontrak dan Sejarah</item>
+        <item>Festival Lantern Rite: Harapan yang Menerangi Malam</item>
+        <item>Kuliner Liyue: Perpaduan Rasa Tradisi</item>
+        <item>Lembah Guili: Peradaban yang Hilang</item>
+    </string-array>
+
+    <string-array name="liyue_articles">
+        <item>Pelabuhan Liyue adalah pusat kemakmuran dan perdagangan di Teyvat. Sebagai salah satu dari Tujuh Negara, Liyue dikelola oleh Liyue Qixing, sebuah komite bisnis yang kuat, di bawah bimbingan sang Geo Archon, Rex Lapis, selama ribuan tahun.\n\nKota ini terbagi menjadi dua area utama: Teras Yujing yang megah di bagian utara, tempat para pejabat dan tokoh penting tinggal, serta Dermaga Chihu di selatan yang selalu ramai dengan aktivitas pedagang, pelaut, dan petualang. Arsitektur Liyue yang khas, terinspirasi dari Tiongkok kuno, memancarkan aura sejarah dan kekayaan yang tak tertandingi.</item>
+        <item>Jueyun Karst adalah wilayah pegunungan megah yang diselimuti kabut abadi dan menjadi rumah bagi para Adeptus, makhluk ilahi yang melindungi Liyue. Puncak-puncak batunya yang menjulang tinggi seolah menyentuh langit, menciptakan pemandangan yang spektakuler sekaligus mistis.\n\nBanyak legenda lahir di tempat ini, termasuk kisah tentang Cloud Retainer, Mountain Shaper, dan Moon Carver. Menjelajahi Jueyun Karst bukan hanya soal tantangan fisik, tetapi juga perjalanan spiritual untuk memahami akar sejarah dan perlindungan ilahi yang membentuk Liyue.</item>
+        <item>Berdiri kokoh di atas sebuah pilar batu raksasa di tengah Rawa Dihua, Wangshu Inn adalah sebuah penginapan ikonik yang menjadi titik temu bagi para pelancong. Dari puncaknya, pengunjung dapat menikmati pemandangan menakjubkan yang membentang dari Desa Qingce hingga Pelabuhan Liyue.\n\nNamun, Wangshu Inn menyimpan lebih dari sekadar pemandangan indah. Tempat ini juga menjadi pos pengawasan bagi salah satu Yaksha pelindung, Alatus atau yang lebih dikenal sebagai Xiao. Kehadirannya memberikan aura misterius pada penginapan yang selalu ramai ini.</item>
+        <item>Jauh dari hiruk pikuk pelabuhan, Desa Qingce menawarkan pemandangan pedesaan yang damai dan tenteram. Dikelilingi oleh perbukitan hijau dan sawah terasering yang indah, desa ini adalah contoh sempurna dari kehidupan agraris Liyue yang harmonis dengan alam.\n\nPara penduduknya yang mayoritas adalah lansia hidup dengan tenang, menjaga tradisi dan legenda kuno, termasuk kisah tentang Chi, naga raksasa yang dikalahkan oleh Rex Lapis di masa lalu. Air terjun yang megah dan kincir air menjadi ciri khas yang membuat Desa Qingce begitu memesona.</item>
+        <item>Hutan Batu Guyun adalah gugusan pulau yang terbentuk dari tombak-tombak batu raksasa yang dilemparkan oleh Rex Lapis selama Perang Archon. Tombak-tombak ini menyegel dewa-dewa kuno yang mengancam Liyue, menjadikan tempat ini sebagai monumen pertempuran ilahi.\n\nEnergi sisa dari pertempuran tersebut masih terasa kuat, menarik monster dan para pemburu harta karun. Meskipun berbahaya, keindahan formasi batunya yang unik saat matahari terbenam menjadikan Guyun Stone Forest salah satu lokasi paling fotogenik di Teyvat.</item>
+        <item>The Chasm adalah area pertambangan utama Liyue yang menyimpan sejarah kelam dan misteri mendalam. Permukaannya yang berwarna ungu aneh adalah hasil dari bencana besar yang terjadi 500 tahun lalu. Baru-baru ini, area tambang bawah tanahnya kembali dibuka, mengungkap dunia yang lebih luas dan berbahaya.\n\nDi kedalamannya, terdapat ekosistem unik dengan flora bercahaya dan reruntuhan peradaban kuno. Para penjelajah harus berbekal Lumenstone Adjuvant untuk menavigasi kegelapan dan mengungkap rahasia yang tersembunyi di jantung Liyue.</item>
+        <item>Liyue Qixing adalah tujuh pemimpin bisnis dan pejabat yang membentuk badan pemerintahan Liyue. Setelah pengunduran diri Rex Lapis, mereka kini memegang kendali penuh atas masa depan negara. Setiap anggota memiliki peran dan tanggung jawab yang spesifik, dari perdagangan hingga keamanan.\n\nTokoh-tokoh sentral seperti Tianquan Ningguang dan Yuheng Keqing menunjukkan bahwa kekuatan dan kebijaksanaan manusia mampu membawa Liyue menuju era baru yang sejahtera, bahkan tanpa bimbingan langsung dari seorang Archon.</item>
+        <item>Adepti adalah sekelompok makhluk ilahi dan setengah dewa yang terikat kontrak dengan Rex Lapis untuk melindungi Liyue dari segala ancaman. Mereka memiliki berbagai wujud, dari hewan mistis seperti Cloud Retainer hingga wujud manusia seperti Madame Ping.\n\nMeskipun banyak dari mereka memilih untuk mengasingkan diri di Jueyun Karst, kesetiaan mereka terhadap Liyue tidak pernah goyah. Mereka adalah perwujudan dari sejarah panjang dan warisan ilahi yang terus hidup berdampingan dengan masyarakat manusia Liyue.</item>
+        <item>Rex Lapis, atau Morax, adalah Geo Archon yang mendirikan Liyue dan memimpinnya selama lebih dari 3.700 tahun. Ia adalah Dewa Kontrak, Perdagangan, dan Peperangan. Setiap kontrak di Liyue dijalankan di bawah pengawasannya yang tak terlihat, menjadikannya landasan fundamental bagi seluruh bangsa.\n\nSetelah peristiwa Rite of Descension yang mengejutkan, ia memilih untuk hidup di antara manusia sebagai Zhongli, seorang konsultan di Wangsheng Funeral Parlor. Keputusannya ini menandai akhir dari era para dewa dan dimulainya era manusia di Liyue.</item>
+        <item>Lantern Rite adalah festival tahunan terbesar dan terpenting di Liyue, diadakan untuk mengenang para pahlawan yang gugur dan mengirimkan harapan untuk masa depan. Pada malam puncak festival, ribuan lentera Xiao dan satu lentera raksasa Mingxiao dilepaskan ke langit malam.\n\nPemandangan ribuan cahaya yang terbang perlahan menciptakan suasana magis yang tak terlupakan. Festival ini bukan hanya perayaan, tetapi juga momen refleksi, kebersamaan, dan penghormatan terhadap tradisi yang telah diwariskan dari generasi ke generasi.</item>
+        <item>Liyue dikenal sebagai surga bagi para pencinta kuliner. Dengan dua gaya masakan utama, Li Style dan Yue Style, Liyue menawarkan beragam hidangan dari jajanan pasar yang sederhana hingga perjamuan mewah di Restoran Liuli Pavilion.\n\nRestoran Wanmin yang dikelola oleh Chef Mao dan putrinya yang penuh semangat, Xiangling, menjadi pusat inovasi kuliner. Hidangan ikonik seperti Adeptus\' Temptation, Golden Shrimp Balls, dan Black-Back Perch Stew menunjukkan kekayaan bahan baku dan keahlian memasak yang diwariskan turun-temurun.</item>
+        <item>Jauh sebelum Pelabuhan Liyue menjadi pusat peradaban, ada sebuah peradaban makmur di Dataran Guili. Peradaban ini didirikan bersama oleh Dewa Debu, Guizhong, dan Dewa Batu, Morax (Rex Lapis). Nama "Guili" sendiri merupakan gabungan dari nama mereka berdua.\n\nSayangnya, peradaban ini hancur akibat pertempuran dahsyat selama Perang Archon. Kini, yang tersisa hanyalah reruntuhan kuno dan tablet-tablet batu yang menceritakan kisah kebijaksanaan Guizhong dan kekuatan Morax. Menjelajahi Dataran Guili adalah seperti menelusuri jejak peradaban Liyue yang paling awal.</item>
+    </string-array>
+
+    <string-array name="liyue_photos">
+        <item>@drawable/liyue_harbor</item>
+        <item>@drawable/jueyun_karst</item>
+        <item>@drawable/wangshu_inn</item>
+        <item>@drawable/qingce_village</item>
+        <item>@drawable/guyun_stone</item>
+        <item>@drawable/the_chasm</item>
+        <item>@drawable/liyue_qixing</item>
+        <item>@drawable/liyue_adeptus</item>
+        <item>@drawable/rex_lapis</item>
+        <item>@drawable/lantern_rite</item>
+        <item>@drawable/liyue_food</item>
+        <item>@drawable/guili_valley</item>
+    </string-array>
+</resources>
