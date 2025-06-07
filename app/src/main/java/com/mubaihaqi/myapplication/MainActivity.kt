@@ -14,8 +14,12 @@ class MainActivity : AppCompatActivity() {
     private lateinit var rvArticles: RecyclerView
     private val list = ArrayList<Articles>()
 
-    private fun showSelectedHero(hero: Articles) {
-        Toast.makeText(this, "Kamu memilih " + hero.name, Toast.LENGTH_SHORT).show()
+    private fun showSelectedArticle(art: Articles) {
+        val intent = Intent(this, ArticleActivity::class.java)
+        intent.putExtra("EXTRA_NAME", art.name)
+        intent.putExtra("EXTRA_DESC", art.description)
+        intent.putExtra("EXTRA_PHOTO", art.photo)
+        startActivity(intent)
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -47,7 +51,7 @@ class MainActivity : AppCompatActivity() {
         rvArticles.adapter = listArticleAdapter
         listArticleAdapter.setOnItemClickCallback(object : ListArticleAdapter.OnItemClickCallback {
             override fun onItemClicked(data: Articles) {
-                showSelectedHero(data)
+                showSelectedArticle(data)
             }
         })
     }

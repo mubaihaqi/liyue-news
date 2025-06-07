@@ -21,4 +21,5 @@
     <color name="darkonerror">#93000a</color>
 
     <color name="bg_gradient_bottom">#FFFFFF</color>
+    <color name="textcolor">#3c2d29</color>
 </resources>
