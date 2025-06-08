@@ -1,12 +1,19 @@
 package com.mubaihaqi.myapplication
 
 import ListArticleAdapter
+import android.animation.ObjectAnimator
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
+import android.view.animation.AccelerateDecelerateInterpolator
 import android.widget.Toast
+import androidx.core.animation.doOnEnd
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -23,6 +30,18 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        val splashScreen = installSplashScreen()
+        splashScreen.setOnExitAnimationListener { splashScreenView ->
+            val fadeOut = ObjectAnimator.ofFloat(
+                splashScreenView.view, View.ALPHA, 1f, 0f
+            )
+            fadeOut.duration = 1000
+            fadeOut.interpolator = AccelerateDecelerateInterpolator()
+
+            fadeOut.doOnEnd { splashScreenView.remove() }
+            fadeOut.start()
+        }
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 

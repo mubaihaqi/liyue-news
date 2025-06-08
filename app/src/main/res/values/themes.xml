@@ -14,5 +14,16 @@
         <item name="colorOnError">@color/lightonerror</item>
     </style>
 
+    <!-- Splash theme -->
+    <style name="Theme.LiyueStarted.Splash" parent="Theme.Material3.DayNight">
+        <item name="android:windowSplashScreenBackground">@color/lightonerror</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_logo</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+        <item name="postSplashScreenTheme">@style/Theme.LiyueStarted</item>
+    </style>
+
+
+
     <style name="Theme.LiyueStarted" parent="Base.Theme.LiyueStarted" />
 </resources>

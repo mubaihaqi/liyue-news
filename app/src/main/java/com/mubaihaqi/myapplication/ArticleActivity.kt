@@ -29,7 +29,7 @@ class ArticleActivity : AppCompatActivity(), View.OnClickListener {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         supportActionBar?.title = name
 
-        val btnShare: Button = findViewById(R.id.share)
+        val btnShare: Button = findViewById(R.id.action_share)
         btnShare.setOnClickListener(this)
     }
 
@@ -45,7 +45,7 @@ class ArticleActivity : AppCompatActivity(), View.OnClickListener {
 
     override fun onClick(v: View?) {
         when (v?.id) {
-            R.id.share -> {
+            R.id.action_share -> {
                 val title = findViewById<TextView>(R.id.articles_title).text.toString()
                 val content = findViewById<TextView>(R.id.articles_isi).text.toString()
 
